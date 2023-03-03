@@ -1,0 +1,7 @@
+build/default/production/i2c/i2c.o:  \
+	D:/PICKIT/TRAFFIC_LIGHT/TRAFFIC_LIGHT/i2c/i2c.c  \
+	D:/PICKIT/TRAFFIC_LIGHT/TRAFFIC_LIGHT/i2c/i2c.h  \
+	D:/PICKIT/TRAFFIC_LIGHT/TRAFFIC_LIGHT/lcd/lcd.h  \
+	D:/PICKIT/TRAFFIC_LIGHT/TRAFFIC_LIGHT/timer/timer.h  \
+	D:/PICKIT/TRAFFIC_LIGHT/TRAFFIC_LIGHT/interrupt/interrupt.h  \
+
